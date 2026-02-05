@@ -15,7 +15,7 @@ To explore the intersection of intuitive, flow-based coding practices and comput
 ## Installation
 ```bash
 # Clone the repository
-git clone <repository-url>
+git clone https://github.com/zuzananeverilova/book_analysis.git
 
 # Install dependencies
 pip install -r requirements.txt
